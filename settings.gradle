@@ -1,0 +1,3 @@
+rootProject.name='JKffmpegdemo'
+include ':app'
+include ':app:jkffmpeg'
